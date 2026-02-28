@@ -1,4 +1,2 @@
-# my-first-project
-My first project
+# Practice JavaScript
 
-This is my first project
